@@ -1,0 +1,9 @@
+#folders
+.idea/
+.lib/
+.libs/
+webapp/images/
+#files
+*.iml
+*.log
+*.class
